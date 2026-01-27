@@ -14,30 +14,30 @@
   "scenes": [
     {
       "scene_number": 1,
-      "scene_text": "Bir arka geceli, yıldızlar yerden korkunç bir deniz gibi uçağın üstüne yayılmışken, Astero ve Ayıto hayallerini paylaşıyordu. Akşamdonatına doğru, iki küçük dostu ağaçların altında oturmuş, yıldızlardan gelen parlaklıkla masal anlatma zamanının geldiğini hissediyorlardı.",
+      "scene_text": "Bir gecenin akowntownıydı ve ay ışığı altında küçük kedi Mavi uyku torbasını doluşturmaya başladı. Uzun sefarede en önemli arkadaşları, iyi geceler diliyordu.",
       "image_prompt_turkish": "tilki orman içinde",
-      "image_prompt_english": "cute cartoon fox in a forest, disney animation, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 1",
-      "word_count": 33
-    },
-    {
-      "scene_number": 2,
-      "scene_text": "Bir balık adı Karaköpfe ve bir köpek adı Soslu vardır. Her iki arkadaşı da çok dost canlısı ama uykularında sık sık çatışır.",
-      "image_prompt_turkish": "tavşan çayır içinde",
-      "image_prompt_english": "cute cartoon rabbit in a meadow, watercolor painting, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 2",
+      "image_prompt_english": "cute cartoon fox in a forest, pixar style, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 1",
       "word_count": 22
     },
     {
+      "scene_number": 2,
+      "scene_text": "Bir kedi ve bir köpeğin arkadaşlığı hakkında anlatacağız. Her ikisi de rüyaların evinde uykuya dalmaya hazırdır.",
+      "image_prompt_turkish": "tavşan çayır içinde",
+      "image_prompt_english": "cute cartoon rabbit in a meadow, children's book, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 2",
+      "word_count": 16
+    },
+    {
       "scene_number": 3,
-      "scene_text": "Bir gece, Ayın ayakkabıları altında, küçük hayvan arkadaşlarımız uyurken bir dolunay parlıyordu. Akıllı Kurt hikâyeyi anlatmaya hazırdı ve derin uykudaki Hapçaçık etrafta sakin sessizlik içinde durdu.",
+      "scene_text": "Bir arazide kurt bir kediye karşı duruyor. Kurutun sakin sesiyle, \"Hoş geldin dostum, seni burada bekliyordum.\" diyor ve ikisi beraber gülümseyerek masaya otururlar.",
       "image_prompt_turkish": "ayı nehir içinde",
       "image_prompt_english": "cute cartoon bear in a river, disney animation, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 3",
-      "word_count": 26
+      "word_count": 23
     },
     {
       "scene_number": 4,
-      "scene_text": "Bir arka parkında duran küçük bir otobüsün içinden, sevimli bir kedinin ve güçlü bir köpeğin sesleri duyuluyor. Kedi \"Uyku seni bekliyor!\" diye söylüyor, Köpek ise güler gülmez \"Yanıma gel be, güzel geceyi paylaşalım.\".",
+      "scene_text": "Bir kuru gecen sonra ayaklarının dibindeki meyve ağaçlarına bakarken, Ali=\"<?=$randomValue?>\" ile Memet <?=$randomValue?> karşılaştı. İki arkadaş, ağaçların altında küçük bir yuva bulup, içine girerek küçük bir hayalinGXGXG geçip giden masalın hikayesine tanık oldular.",
       "image_prompt_turkish": "kedi gece gökyüzü içinde",
-      "image_prompt_english": "cute cartoon cat in a night sky, children's book, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 4",
+      "image_prompt_english": "cute cartoon cat in a night sky, pixar style, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 4",
       "word_count": 33
     }
   ]
