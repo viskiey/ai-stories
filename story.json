@@ -1,0 +1,44 @@
+{
+  "title": "Minik Dostun Büyük Yolculuğu",
+  "description": "3-7 yaş çocuklar için huzurlu uyku masalı",
+  "model_used": "qwen2.5:7b",
+  "total_scenes": 4,
+  "tags": [
+    "masal",
+    "çocuk",
+    "uyku",
+    "hayvan",
+    "hikaye",
+    "ollama"
+  ],
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_text": "Bir arka geceli, yıldızlar yerden korkunç bir deniz gibi uçağın üstüne yayılmışken, Astero ve Ayıto hayallerini paylaşıyordu. Akşamdonatına doğru, iki küçük dostu ağaçların altında oturmuş, yıldızlardan gelen parlaklıkla masal anlatma zamanının geldiğini hissediyorlardı.",
+      "image_prompt_turkish": "tilki orman içinde",
+      "image_prompt_english": "cute cartoon fox in a forest, disney animation, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 1",
+      "word_count": 33
+    },
+    {
+      "scene_number": 2,
+      "scene_text": "Bir balık adı Karaköpfe ve bir köpek adı Soslu vardır. Her iki arkadaşı da çok dost canlısı ama uykularında sık sık çatışır.",
+      "image_prompt_turkish": "tavşan çayır içinde",
+      "image_prompt_english": "cute cartoon rabbit in a meadow, watercolor painting, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 2",
+      "word_count": 22
+    },
+    {
+      "scene_number": 3,
+      "scene_text": "Bir gece, Ayın ayakkabıları altında, küçük hayvan arkadaşlarımız uyurken bir dolunay parlıyordu. Akıllı Kurt hikâyeyi anlatmaya hazırdı ve derin uykudaki Hapçaçık etrafta sakin sessizlik içinde durdu.",
+      "image_prompt_turkish": "ayı nehir içinde",
+      "image_prompt_english": "cute cartoon bear in a river, disney animation, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 3",
+      "word_count": 26
+    },
+    {
+      "scene_number": 4,
+      "scene_text": "Bir arka parkında duran küçük bir otobüsün içinden, sevimli bir kedinin ve güçlü bir köpeğin sesleri duyuluyor. Kedi \"Uyku seni bekliyor!\" diye söylüyor, Köpek ise güler gülmez \"Yanıma gel be, güzel geceyi paylaşalım.\".",
+      "image_prompt_turkish": "kedi gece gökyüzü içinde",
+      "image_prompt_english": "cute cartoon cat in a night sky, children's book, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 4",
+      "word_count": 33
+    }
+  ]
+}
