@@ -1,7 +1,8 @@
 {
   "title": "Minik Dostun Büyük Yolculuğu",
   "description": "3-7 yaş çocuklar için huzurlu uyku masalı",
-  "model_used": "qwen2.5:7b",
+  "model_used": "llama-3.3-70b-versatile",
+  "api_type": "groq",
   "total_scenes": 4,
   "tags": [
     "masal",
@@ -9,36 +10,36 @@
     "uyku",
     "hayvan",
     "hikaye",
-    "ollama"
+    "groq"
   ],
   "scenes": [
     {
       "scene_number": 1,
-      "scene_text": "Güneyden gelen ılık rüzgâr, Ak Babacan’ın bahçesinde durdu. Bahçede yaşayan Çiçek Kuşu uyuyakılmış, gözleri hala açıkken saklanmıştı. Rüzgârın gürültüsü onu uyutmaya başladı.",
-      "image_prompt_turkish": "Sahne 1: Güneyden gelen ılık rüzgâr, Ak Babacan’ın bahçesin...",
-      "image_prompt_english": "cute cartoon warm wind stopping in garden, ak babacans garden, soft breeze sound lulls hidden sleeping flower bird, dreamy atmosphere, detailed, best quality",
-      "word_count": 22
+      "scene_text": "Bir varmış bir yokmuş, Ayşe adında bir tavşan ormanda yaşıyordu. Ayşe'nin en yakın arkadaşı köpek olan Ali'ydi. Bir gün Ali, Ayşe'ye ormanda bir festival düzenleneceğini söyledi. Ayşe çok heyecanlandı ve festival için hazırlanmaya başladı.",
+      "image_prompt_turkish": "Sahne 1: Bir varmış bir yokmuş, Ayşe adında bir tavşan orma...",
+      "image_prompt_english": "cute cartoon rabbit and dog preparing for festival in forest, disney style, happy sunny atmosphere, detailed, masterpiece",
+      "word_count": 34
     },
     {
       "scene_number": 2,
-      "scene_text": "Bir arka bahçede ayakkabılarını silkti, küçük Ağaçlı ve Karıncalı. Yıldızlar gökyüzünde dans ederken, iki arkadaş kocaman gözleriyle masum bir güzelliği izlediler.",
-      "image_prompt_turkish": "Sahne 2: Bir arka bahçede ayakkabılarını silkti, küçük Ağaç...",
-      "image_prompt_english": "cute cartoon fox and ant duo in backyard stretching socks while starlit sky dances, detailed style, wonderfilled night atmosphere",
-      "word_count": 21
+      "scene_text": "Bir varmış bir yokmuş, ormanda yaşayan bir tavşan ve bir kedi, birlikte ağaçların altında uyku vaktini bekliyorlardı. Tavşan yuvarlak gözleriyle ayı yüzünü izliyordu. Kedi ise rahat uyku pozisyonunda yatmış, pürdüyor ve etrafı dinliyordu. Ormanda bir sessizlik hakimdi ve her yer huzurla doluydu.",
+      "image_prompt_turkish": "Sahne 2: Bir varmış bir yokmuş, ormanda yaşayan bir tavşan ...",
+      "image_prompt_english": "cute cartoon rabbit and cat sleeping under trees in forest, watercolor style, peaceful night atmosphere, ultra detailed, best quality",
+      "word_count": 42
     },
     {
       "scene_number": 3,
-      "scene_text": "Gece gelip karanlık dümenler çevirirken, püf püf sesleriyle uykulu gözlerini çakan Mısır ve Tavuk arkadaşlarımız uyuyor. Puf! Uyku kaplanınca, onların hayal dünyasında muhteşem bir hayalete dönüyorlar...",
-      "image_prompt_turkish": "Sahne 3: Gece gelip karanlık dümenler çevirirken, püf püf s...",
-      "image_prompt_english": "cute cartoon chicken and mouse sleeping in forest, surreal style, dreamlike atmosphere, ultra detailed, best quality",
-      "word_count": 26
+      "scene_text": "Bir varmış bir yokmuş, ormanda yaşayan iki küçük arkadaş, tavşan Timur ve kedi Misket, birlikte uyku vaktine yaklaşıyordu. Güneş ışıkları ağaçların ardında kayboluyordu. Tavşan Timur ve kedi Misket yuvalarına doğru yürüyordu. Yıldızlar yavaş yavaş gökyüzünde belirmeye başlıyordu.",
+      "image_prompt_turkish": "Sahne 3: Bir varmış bir yokmuş, ormanda yaşayan iki küçük a...",
+      "image_prompt_english": "cute cartoon rabbit and cat walking to their nests under starry night in forest, watercolor style, peaceful evening atmosphere, high quality, masterpiece",
+      "word_count": 37
     },
     {
       "scene_number": 4,
-      "scene_text": "Bir arka bahçede, ayaklarının dibinde gül bağı dans ederken, Ağaç Kardeşler toplanmış duruyor. Güneş yürüyüşünü izleyerek, Yılan Hikmetli sabitleşmiş yapraklarından birine yaslanır.",
-      "image_prompt_turkish": "Sahne 4: Bir arka bahçede, ayaklarının dibinde gül bağı dan...",
-      "image_prompt_english": "cute cartoon tree siblings gathering around wise snake resting on leafy branch, garden setting, serene morning atmosphere, best quality, detailed",
-      "word_count": 22
+      "scene_text": "Bir varmış bir yokmuş, ormanda yaşayan bir tilki, bir kedi ve bir köpek arkadaşlar uyku vaktine yaklaştı. Tilki yumuşak çimenlere uzandı. Kedi ve köpek de yanına yerleştiler. Ayın ışığı ormanı aydınlatıyordu.",
+      "image_prompt_turkish": "Sahne 4: Bir varmış bir yokmuş, ormanda yaşayan bir tilki, ...",
+      "image_prompt_english": "cute cartoon fox, cat and dog sleeping together on soft grass in forest, watercolor style, peaceful moonlight atmosphere, masterpiece, best quality",
+      "word_count": 31
     }
   ]
 }
