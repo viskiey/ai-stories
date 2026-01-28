@@ -1,0 +1,45 @@
+{
+  "title": "Minik Dostun Büyük Yolculuğu",
+  "description": "3-7 yaş çocuklar için huzurlu uyku masalı",
+  "model_used": "llama-3.3-70b-versatile",
+  "api_type": "groq",
+  "total_scenes": 4,
+  "tags": [
+    "masal",
+    "çocuk",
+    "uyku",
+    "hayvan",
+    "hikaye",
+    "groq"
+  ],
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_text": "Bir varmış bir yokmuş, ormanda sevimli bir tavşan ve arkadaşları yaşıyordu. Tavşanın adı Maviydi ve en yakın arkadaşı bir kuştu. Kuşun adı Rüzgardı ve birlikte ormanda gezerlerdi. Mavi ve Rüzgar güneşin batışını izlemek için yüksek bir tepeye çıktılar.",
+      "image_prompt_turkish": "Sahne 1: Bir varmış bir yokmuş, ormanda sevimli bir tavşan ...",
+      "image_prompt_english": "cute cartoon rabbit and bird watching sunset on a hill in forest, watercolor style, serene evening atmosphere, 4k, detailed",
+      "word_count": 38
+    },
+    {
+      "scene_number": 2,
+      "scene_text": "Bir varmış bir yokmuş, aydınlık bir ormanda, küçük bir tavşan ve bir kedi arkadaş uyku vaktine yakın bir zamanda birlikte dolaşıyorlardı. Tavşan ve kedi, birlikte güzel bir çiçek bahçesinde çiçeklerin kokusunu alarak rahatlıyorlardı. Kedi usulca tavşana baktı ve güneşin batışını izlemeye başladılar. Tavşan ve kedi yavaş yavaş uykuya daldılar.",
+      "image_prompt_turkish": "Sahne 2: Bir varmış bir yokmuş, aydınlık bir ormanda, küçük...",
+      "image_prompt_english": "cute cartoon rabbit and cat walking in a flower garden, watercolor style, serene sunset atmosphere, 4k, ultra detailed",
+      "word_count": 49
+    },
+    {
+      "scene_number": 3,
+      "scene_text": "Bir varmış bir yokmuş, ormanda yaşayan bir tavşan ve bir kirpi dostluklarıydı. Tavşan uykusundan uyanır ve kirpiyi görür. Kirpi de tavşana gülümser ve ona uyku masalları anlatmaya başlar. Tavşan ve kirpi birlikte uykuya dalarken ormanda bir sessizlik hüküm sürer.",
+      "image_prompt_turkish": "Sahne 3: Bir varmış bir yokmuş, ormanda yaşayan bir tavşan ...",
+      "image_prompt_english": "cute cartoon rabbit and hedgehog sleeping together in forest, watercolor style, peaceful night atmosphere, 4k, masterpiece",
+      "word_count": 39
+    },
+    {
+      "scene_number": 4,
+      "scene_text": "Bir varmış bir yokmuş, ormanda yaşayan bir tavşan ve bir kedi, together uyku vaktine yaklaşıyordu. Tavşan yatağına yatarken, kedi de yanındaki mindere uzandı. Tavşan ve kedi, ay ışığında uykuya daldılar.",
+      "image_prompt_turkish": "Sahne 4: Bir varmış bir yokmuş, ormanda yaşayan bir tavşan ...",
+      "image_prompt_english": "cute cartoon rabbit and cat sleeping together in forest, disney style, peaceful night atmosphere, masterpiece, beautiful composition",
+      "word_count": 30
+    }
+  ]
+}
