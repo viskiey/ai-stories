@@ -14,31 +14,31 @@
   "scenes": [
     {
       "scene_number": 1,
-      "scene_text": "Bir gecede, küçük kocaman kuş adında bir çocuk hayali geliştirdi. Kuş hikayesini şöyle anlattı: \"Güzel ve sakin bir sultanka rüya geldi. Sultancan, küçük hayvan arkadaşlarına masallar anlatırken, kuşlu da olsa onları çok sevdi.\".",
-      "image_prompt_turkish": "Sahne 1: Bir gecede, küçük kocaman kuş adında bir çocuk hay...",
-      "image_prompt_english": "cute cartoon bird dreaming about princess in peaceful forest, detailed style, enchanting night atmosphere",
-      "word_count": 33
+      "scene_text": "Güneyden gelen ılık rüzgâr, Ak Babacan’ın bahçesinde durdu. Bahçede yaşayan Çiçek Kuşu uyuyakılmış, gözleri hala açıkken saklanmıştı. Rüzgârın gürültüsü onu uyutmaya başladı.",
+      "image_prompt_turkish": "Sahne 1: Güneyden gelen ılık rüzgâr, Ak Babacan’ın bahçesin...",
+      "image_prompt_english": "cute cartoon warm wind stopping in garden, ak babacans garden, soft breeze sound lulls hidden sleeping flower bird, dreamy atmosphere, detailed, best quality",
+      "word_count": 22
     },
     {
       "scene_number": 2,
-      "scene_text": "Bir arka bahçede, küçük kuşlar bir kocaman ağaca tırmanırken, gürültülü günün sonuna doğru sessizlik sergiliyor. Bu sakin momentte, masallar bayrağı ayaklarının dibinde fırlayıp, uyku dalgalanmaları başlamaya hazırbilir.",
-      "image_prompt_turkish": "Sahne 2: Bir arka bahçede, küçük kuşlar bir kocaman ağaca t...",
-      "image_prompt_english": "cute cartoon birds climbing big tree in backyard, tranquil evening atmosphere, sd-xl style, beautiful composition, best quality",
-      "word_count": 27
+      "scene_text": "Bir arka bahçede ayakkabılarını silkti, küçük Ağaçlı ve Karıncalı. Yıldızlar gökyüzünde dans ederken, iki arkadaş kocaman gözleriyle masum bir güzelliği izlediler.",
+      "image_prompt_turkish": "Sahne 2: Bir arka bahçede ayakkabılarını silkti, küçük Ağaç...",
+      "image_prompt_english": "cute cartoon fox and ant duo in backyard stretching socks while starlit sky dances, detailed style, wonderfilled night atmosphere",
+      "word_count": 21
     },
     {
       "scene_number": 3,
-      "scene_text": "Bir arka gecesi, koyun ve köpeğin arkadaşları ormanda uyku içmeye hazırdı. Ama hayvanlardan biri, küçük kuşun gürültüsüyle uyanınca, hafifçe sesli fısıltıyla dostlarına anlatmaya başladı...",
-      "image_prompt_turkish": "Sahne 3: Bir arka gecesi, koyun ve köpeğin arkadaşları orma...",
-      "image_prompt_english": "cute cartoon animals in forest waking up due to birds chirp, soft pastel style, tranquil evening atmosphere, masterpiece, 4k",
-      "word_count": 24
+      "scene_text": "Gece gelip karanlık dümenler çevirirken, püf püf sesleriyle uykulu gözlerini çakan Mısır ve Tavuk arkadaşlarımız uyuyor. Puf! Uyku kaplanınca, onların hayal dünyasında muhteşem bir hayalete dönüyorlar...",
+      "image_prompt_turkish": "Sahne 3: Gece gelip karanlık dümenler çevirirken, püf püf s...",
+      "image_prompt_english": "cute cartoon chicken and mouse sleeping in forest, surreal style, dreamlike atmosphere, ultra detailed, best quality",
+      "word_count": 26
     },
     {
       "scene_number": 4,
-      "scene_text": "Bir arka parkında hayvan arkadaşlarımız uyuyak<main character>, <secondary character> ve <supporting character>. Akşamın hafif ışıkları altında, nature musikleriyle dolaşan bu sakin ortam, çocuklar için ideali uykulu bir ortam yaratıyor.",
-      "image_prompt_turkish": "Sahne 4: Bir arka parkında hayvan arkadaşlarımız uyuyak<mai...",
-      "image_prompt_english": "cute cartoon animals sleeping in park under moonlight, serene atmosphere, ambient nature music playing, beautiful composition, high quality",
-      "word_count": 29
+      "scene_text": "Bir arka bahçede, ayaklarının dibinde gül bağı dans ederken, Ağaç Kardeşler toplanmış duruyor. Güneş yürüyüşünü izleyerek, Yılan Hikmetli sabitleşmiş yapraklarından birine yaslanır.",
+      "image_prompt_turkish": "Sahne 4: Bir arka bahçede, ayaklarının dibinde gül bağı dan...",
+      "image_prompt_english": "cute cartoon tree siblings gathering around wise snake resting on leafy branch, garden setting, serene morning atmosphere, best quality, detailed",
+      "word_count": 22
     }
   ]
 }
