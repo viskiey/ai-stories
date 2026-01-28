@@ -14,31 +14,31 @@
   "scenes": [
     {
       "scene_number": 1,
-      "scene_text": "Bir gecenin akowntownıydı ve ay ışığı altında küçük kedi Mavi uyku torbasını doluşturmaya başladı. Uzun sefarede en önemli arkadaşları, iyi geceler diliyordu.",
-      "image_prompt_turkish": "tilki orman içinde",
-      "image_prompt_english": "cute cartoon fox in a forest, pixar style, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 1",
-      "word_count": 22
+      "scene_text": "Bir gecede, küçük kocaman kuş adında bir çocuk hayali geliştirdi. Kuş hikayesini şöyle anlattı: \"Güzel ve sakin bir sultanka rüya geldi. Sultancan, küçük hayvan arkadaşlarına masallar anlatırken, kuşlu da olsa onları çok sevdi.\".",
+      "image_prompt_turkish": "Sahne 1: Bir gecede, küçük kocaman kuş adında bir çocuk hay...",
+      "image_prompt_english": "cute cartoon bird dreaming about princess in peaceful forest, detailed style, enchanting night atmosphere",
+      "word_count": 33
     },
     {
       "scene_number": 2,
-      "scene_text": "Bir kedi ve bir köpeğin arkadaşlığı hakkında anlatacağız. Her ikisi de rüyaların evinde uykuya dalmaya hazırdır.",
-      "image_prompt_turkish": "tavşan çayır içinde",
-      "image_prompt_english": "cute cartoon rabbit in a meadow, children's book, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 2",
-      "word_count": 16
+      "scene_text": "Bir arka bahçede, küçük kuşlar bir kocaman ağaca tırmanırken, gürültülü günün sonuna doğru sessizlik sergiliyor. Bu sakin momentte, masallar bayrağı ayaklarının dibinde fırlayıp, uyku dalgalanmaları başlamaya hazırbilir.",
+      "image_prompt_turkish": "Sahne 2: Bir arka bahçede, küçük kuşlar bir kocaman ağaca t...",
+      "image_prompt_english": "cute cartoon birds climbing big tree in backyard, tranquil evening atmosphere, sd-xl style, beautiful composition, best quality",
+      "word_count": 27
     },
     {
       "scene_number": 3,
-      "scene_text": "Bir arazide kurt bir kediye karşı duruyor. Kurutun sakin sesiyle, \"Hoş geldin dostum, seni burada bekliyordum.\" diyor ve ikisi beraber gülümseyerek masaya otururlar.",
-      "image_prompt_turkish": "ayı nehir içinde",
-      "image_prompt_english": "cute cartoon bear in a river, disney animation, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 3",
-      "word_count": 23
+      "scene_text": "Bir arka gecesi, koyun ve köpeğin arkadaşları ormanda uyku içmeye hazırdı. Ama hayvanlardan biri, küçük kuşun gürültüsüyle uyanınca, hafifçe sesli fısıltıyla dostlarına anlatmaya başladı...",
+      "image_prompt_turkish": "Sahne 3: Bir arka gecesi, koyun ve köpeğin arkadaşları orma...",
+      "image_prompt_english": "cute cartoon animals in forest waking up due to birds chirp, soft pastel style, tranquil evening atmosphere, masterpiece, 4k",
+      "word_count": 24
     },
     {
       "scene_number": 4,
-      "scene_text": "Bir kuru gecen sonra ayaklarının dibindeki meyve ağaçlarına bakarken, Ali=\"<?=$randomValue?>\" ile Memet <?=$randomValue?> karşılaştı. İki arkadaş, ağaçların altında küçük bir yuva bulup, içine girerek küçük bir hayalinGXGXG geçip giden masalın hikayesine tanık oldular.",
-      "image_prompt_turkish": "kedi gece gökyüzü içinde",
-      "image_prompt_english": "cute cartoon cat in a night sky, pixar style, soft lighting, warm colors, bedtime story, high quality, detailed, 4k, magical atmosphere, scene 4",
-      "word_count": 33
+      "scene_text": "Bir arka parkında hayvan arkadaşlarımız uyuyak<main character>, <secondary character> ve <supporting character>. Akşamın hafif ışıkları altında, nature musikleriyle dolaşan bu sakin ortam, çocuklar için ideali uykulu bir ortam yaratıyor.",
+      "image_prompt_turkish": "Sahne 4: Bir arka parkında hayvan arkadaşlarımız uyuyak<mai...",
+      "image_prompt_english": "cute cartoon animals sleeping in park under moonlight, serene atmosphere, ambient nature music playing, beautiful composition, high quality",
+      "word_count": 29
     }
   ]
 }
